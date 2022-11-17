@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 .box {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   justify-content: space-between;
 }
 .box1 {
